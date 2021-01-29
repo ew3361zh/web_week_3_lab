@@ -1,0 +1,35 @@
+#real-alert {
+    color: black;
+    font-size: 20px;
+    
+}
+
+#test-only {
+    color: aquamarine;
+    font-size: 20px;
+}
+
+.real-div {
+    background-color: red;
+    border: 30px blue dotted;
+    margin: 10px;
+    padding: 15px;
+}
+
+.important {
+    font-style: oblique;
+    font-size: 40px;
+    text-transform: uppercase;
+
+}
+
+.test-div {
+    background-color: blue;
+    border: 30px skyblue double;
+    margin: 10px;
+    padding: 15px;
+}
+
+.missile-link {
+    display: block;
+}
