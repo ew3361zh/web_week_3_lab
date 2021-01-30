@@ -1,0 +1,14 @@
+.code {
+    background-color: chocolate;
+    color: rgb(206, 174, 163);
+}
+body {
+    background-color: darkgreen;
+    color: rgb(58, 179, 152);
+    font-style: oblique;
+}
+
+.jumbotron {
+    background-color: rgb(168, 161, 60);
+    color:rgb(218, 191, 38);
+}
