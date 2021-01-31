@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: rgb(166, 167, 115);
+    color:rgb(158, 55, 29);
+    font-family: 'Fraunces', serif;
+}
+
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+    background-image: linear-gradient(#e08813, #48bd24);
+}
